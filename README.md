@@ -72,3 +72,7 @@ composer install
 ```
 ## Button
 <a href="https://www.w3schools.com/" target="_blank">W3scool</a>
+
+## Badge
+
+[![app](https://img.shields.io/badge/learning-Markdown/PNC-blue)](https://www.passerellesnumeriques.org/what-we-do/cambodia/)
