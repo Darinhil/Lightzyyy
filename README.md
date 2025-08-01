@@ -54,7 +54,7 @@ noral text
 css Framework [Bootstrap](https://getbootstrap.com/)
 
 ## Single line code
-`print("hello world")
+`print("hello world")`
 
 ## multiple line 
 ```python 
