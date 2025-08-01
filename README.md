@@ -21,3 +21,13 @@ noral text
 - [x] Task 2
 - [] Task 3
 - [] Task 4
+
+## Table 
+ | id | name | age | status |
+ | ----| -----| ----| --|
+ | 01 | niel | 303 | True   |
+ | 01 | niel | 303 | True   |
+ | 01 | niel | 303 | True   |
+## block Quote
+
+> This is markdown qoute
