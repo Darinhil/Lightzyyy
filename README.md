@@ -52,3 +52,21 @@ noral text
 
 ## Link
 css Framework [Bootstrap](https://getbootstrap.com/)
+
+## Single line code
+`print("hello world")
+
+## multiple line 
+```python 
+for i in range(10):
+    print(i)
+```
+```html
+<h1>hello</h1>
+<p> text </p>
+```
+```bash
+npm i express
+pip intstall cv2
+composer install
+```
