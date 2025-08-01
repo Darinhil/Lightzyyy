@@ -46,3 +46,9 @@ noral text
 
     - sub 1
     - sub 2
+
+## Image
+![Dashboard](tkpq7RNj_400x400.jpg)
+
+## Link
+css Framework [Bootstrap](https://getbootstrap.com/)
